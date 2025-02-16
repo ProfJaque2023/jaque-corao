@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="JKViA%PLczd#DhkaQmK@" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="qA#_^5?x!%*q%=|,q%[U"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="basic_show_icon" id="KUXFQ,1WuTVVY1)+u*d%"><field name="i">IconNames.Square</field><next><block type="music_playable_play" id="0x{K16,^`RUJYc:k0HzI"><field name="playbackMode">music.PlaybackMode.InBackground</field><value name="toPlay"><shadow type="music_string_playable" id="EXCQLS|RD;X(,SO|_D5?"><value name="melody"><shadow type="melody_editor" id="aSbD=yG:9F_IA6H{Bk4H"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="x#fop4GHP.kpW#R^uWNg"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow></value></block></next></block></next></block></statement></block></xml>
